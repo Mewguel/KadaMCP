@@ -4,6 +4,7 @@ AI-powered central server for Notion Kanban boards with Slack & dashboard integr
 
 ## Project Structure
 
+```
 app/
 │
 ├── init.py
@@ -16,6 +17,7 @@ app/
 .env # Secrets (Notion token, Database ID)
 .gitignore
 requirements.txt
+```
 
 ## Setup Guide
 
